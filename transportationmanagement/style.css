@@ -1,0 +1,51 @@
+.login{
+    padding:10px;
+    margin-top:10px;
+    background-color: navy;
+    color: yellow;
+    height:300px;
+    width:300px;
+    margin:auto;
+   
+   
+    
+    }
+
+.thick{
+    height: 10px;
+    background-color:blue;
+}
+
+.entry{
+    background-image: url(img2.jpg);
+    
+    height: 100%;
+    width:100%;
+    padding-top: 100px;
+}
+
+.expand500
+{
+height:500px;
+
+}
+.expand400
+{
+    height:400px;
+}
+.expand600{
+    height:600px;
+}
+a{
+    margin-top:20px;
+}
+
+.entry2{
+    background-image: url(img3.jpg);
+    height:100%;
+    width:100%;
+    background-position: center;
+}
+.text{
+    background-color:pink;
+}
